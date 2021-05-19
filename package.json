@@ -1,0 +1,17 @@
+{
+  "name": "sentiment_analysis_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ml-sentiment": "^2.0.7",
+    "node-nlp": "^4.22.1",
+    "sentimental": "^0.1.2"
+  }
+}
